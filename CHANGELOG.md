@@ -18,6 +18,3 @@ All Notable changes to `:package_name` will be documented in this file.
 
 ### Security
 - Nothing
-
-<!-- ### 0.1.0
-- First release, woohoo! -->

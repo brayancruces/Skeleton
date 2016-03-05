@@ -9,12 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace DraperStudio\Skeleton\Test;
+namespace DraperStudio\Tests\Package;
 
 /**
- * Class ExampleTest.
+ * This is the package test class.
+ *
+ * @author DraperStudio <hello@draperstudio.tech>
  */
-class ExampleTest extends \PHPUnit_Framework_TestCase
+class PackageTest extends AbstractTestCase
 {
     /**
      * Test that true does in fact equal true.

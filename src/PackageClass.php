@@ -9,15 +9,17 @@
  * file that was distributed with this source code.
  */
 
-namespace DraperStudio\Skeleton;
+namespace DraperStudio\Package;
 
 /**
- * Class SkeletonClass.
+ * This is the package class.
+ *
+ * @author DraperStudio <hello@draperstudio.tech>
  */
-class SkeletonClass
+class PackageClass
 {
     /**
-     * Create a new Skeleton Instance.
+     * Create a new Package Instance.
      */
     public function __construct()
     {
